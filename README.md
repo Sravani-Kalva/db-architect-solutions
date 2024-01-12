@@ -24,9 +24,9 @@ With 12 years of hands-on experience, I've worked  in multinational energy corpo
 6. [DataOps](#):Spearheaded the implementation of efficient DataOps practices, ensuring seamless data integration, quality, and delivery.Collaborated with cross-functional teams to design and optimize databases, leveraging serverless architecture for scalability
 
  ## 🛠️ Technical Proficiency
-- **Database Technologies:** MySQL , PostgreSQL , MSSQL , MongoDB ,DynamoDB , Redshift
-- **Middleware & Message Brokers:** Redis , elasitic search , amazon SQS
-- **AWS Services:** Aurora , RDS , S3 , Glue , Lambda , S3 , EC2 , SNS , SES , SecretManager , Cloudwatch , Loginsights , EventScheduler 
+- **Database Technologies:** ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+- **Middleware & Message Brokers:** ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  elasitic search  amazon SQS
+- **AWS Services:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Aurora , RDS , S3 , Glue , Lambda , S3 , EC2 , SNS , SES , SecretManager , Cloudwatch , Loginsights , EventScheduler
 
 🌐 **Connect with Me:**
 - [LinkedIn](#): www.linkedin.com/in/sravanikalva
